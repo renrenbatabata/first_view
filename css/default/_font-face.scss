@@ -1,0 +1,54 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "Zen Kaku Gothic New";
+    font-style: normal;
+    font-weight: 700;
+    src: url("../webfonts/ZenKakuGothicNew-Bold.woff2") format("woff2"),
+    url("../webfonts/ZenKakuGothicNew-Bold.woff") format("woff");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Noto Sans JP";
+    font-style: normal;
+    font-weight: 500;
+    src: url("../webfonts/NotoSansJP-Medium.woff2") format("woff2"),
+    url("../webfonts/NotoSansJP-Medium.woff") format("woff");
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: "Jost";
+    font-style: normal;
+    font-weight: 600;
+    src: url("../webfonts/Jost-SemiBold.woff2") format("woff2"),
+    url("../webfonts/Jost-SemiBold.woff") format("woff");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Antonio";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../webfonts/Antonio-Regular.woff2") format("woff2"),
+    url("../webfonts/Antonio-Regular.woff") format("woff");
+    font-display: swap;
+}
+
+// @font-face {
+//     font-family: "Reenie Beanie";
+//     font-style: normal;
+//     font-weight: 400;
+//     src: url("../webfonts/ReenieBeanie-Regular.woff2") format("woff2"),
+//     url("../webfonts/ReenieBeanie-Regular.woff") format("woff");
+//     font-display: swap;
+// }
+
+@font-face{
+    font-family: "Reenie Beanie";
+    font-style:normal;
+    src: url("../webfonts/ReenieBeanie-Regular.woff2") format("woff2");
+    font-display: swap;
+}
